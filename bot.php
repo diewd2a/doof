@@ -1,5 +1,4 @@
 <?php
-include('testin.php');
 $access_token = 'onZk0lMu38UjCMFxwuNWG68FUhMol4e0/lFcFNuMHxNF5V0bzxwh+kBDRQ7KS8w3WqZwUileaIi8jOzD/zq2mBHgLCI/KrXAdejcb4ssr+0emsS/uqn9b1qxepRfsLEcdWDgefH/E/3uU/ryHMfN6gdB04t89/1O/w1cDnyilFU=';
 // Get POST body content
 $content = file_get_contents('php://input');
